@@ -21,4 +21,4 @@
 
 ### :zap: GitHub Stats
 
-![Volodymyr Sydorchuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Articum)
+![Volodymyr Sydorchuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Articum&show_icons=true&hide_border=true)
