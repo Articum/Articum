@@ -21,4 +21,4 @@
 
 ### :zap: GitHub Stats
 
-[![Articum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Articum)](https://github.com/anuraghazra/github-readme-stats)
+[![Volodymyr Sydorchuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Articum)]
